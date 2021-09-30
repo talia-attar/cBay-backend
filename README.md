@@ -1,5 +1,7 @@
 # cBay-backend
 
+DEVELOPED WITH Eric Osband (eo255@cornell.edu), Rachael Adelson (rma249@cornell.edu), and Tewodros Mitiku (tmb42@cornell.edu).
+
 An OCaml backend application that powers cBay. 
 
 Below you can find the API specification. This API can be used either 
@@ -9,13 +11,6 @@ terminal application.
 To install cBay-backend locally, follow instructions in INSTALL.txt.
 
 Backend deployed on Google VM Instance at http://35.245.220.250/api/
-
-
-CS 3110 Final Project
-Eric Osband (eo255), Rachael Adelson (rma249), Talia Attar (tda25), 
-and Tewodros Mitiku (tmb42).
-
-
 
 
 ```
